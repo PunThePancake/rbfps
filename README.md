@@ -13,7 +13,7 @@ Feel free to modify and suggest modifications. A modern UI is indented to be imp
 
 *Developed and maintained by PunThePancake please report any bugs / issues [here.](https://github.com/PunThePancake/rbfps/issues)*
 # Antivirus false positive fix
-[ms-settings:windowsdefender-appbrowserOpen](Windows Defender App & Browser Control Settings) and disable "Check apps and files". Feel free to enable this settings again after download is complete however be aware that after downloading windows still can pick it up as malware, to circumvent this go to windows defender or your antivirus and "Allow on device".
+(Windows Defender App & Browser Control Settings)[ms-settings:windowsdefender-appbrowserOpen] and disable "Check apps and files". Feel free to enable this settings again after download is complete however be aware that after downloading windows still can pick it up as malware, to circumvent this go to windows defender or your antivirus and "Allow on device".
 ![[Pasted image 20240325222624.png]]
  This will prevent any false positives likely caused by the script automatically installing necessary modules for rbfps to work.
 # How it works
