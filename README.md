@@ -21,6 +21,9 @@ Open "Windows Defender App & Browser Control Settings" and disable "Check apps a
 3. Automatically locates users current Roblox install.
 4. Deploys .json file that sets FPS limit to inputted value from user in step 2
 
+Here is an example:
+![https://github.com/PunThePancake/rbfps/blob/main/example%20image.png?raw=true]
+
 ---
 
 More documentation and development coming soon...
