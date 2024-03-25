@@ -7,7 +7,6 @@ rbfps (Roblox FPS) utilises a current modification that can be made to the Roblo
 }
 ```
 
->[!info]  
 >where ```int``` is a number (eg. 144)
 
 Feel free to modify and suggest modifications. A modern UI is indented to be implemented to make software more user friendly at a later date.
